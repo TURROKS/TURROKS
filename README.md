@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Mario - aka TURROKS 👋 I'm a Husband, Cyber Security Expert and Developer (Debatable)
+### Hi there, I'm Mario - aka TURROKS 👋 I'm a Cyber Security Expert and Developer (Debatable)
 
-- 🔭 I’m currently working on developing OSINT Security Tools!
-- 🌱 I’m currently learning everything I can
+- 🔭 I’m currently working on developing OSINT and Security focused Tools!
+- 🌱 I’m currently learning about life!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help with Python for Security
-- 💬 Ask me about Cyber Security, Python, Linux
+- 💬 Ask me about Cyber Security, Threat Intelligence, OSINT, OPSEC
 
 ### Connect with me:
 
