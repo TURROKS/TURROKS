@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/MarioRojasChin
 [linkedin]: https://www.linkedin.com/in/mariorojaschinchilla/
 [medium]: https://mariorojaschin.medium.com/
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K4KOFV4)
