@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on developing OSINT and Security focused Tools!
 - 🌱 I’m currently learning about life!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Cyber Security, Threat Intelligence, OSINT, OPSEC, Maltego
 - ⚡  I am a Maltego Transform Developer with experience working on Enterprise integrations.
 
